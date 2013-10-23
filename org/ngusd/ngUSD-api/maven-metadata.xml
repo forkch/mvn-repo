@@ -2,16 +2,12 @@
 <metadata>
   <groupId>org.ngusd</groupId>
   <artifactId>ngUSD-api</artifactId>
-  <version>0.1</version>
+  <version>0.1.3</version>
   <versioning>
     <versions>
-      <version>0.1</version>
+      <version>0.1.3</version>
       <version>0.1.1</version>
     </versions>
-<<<<<<< HEAD
-    <lastUpdated>20131022153606</lastUpdated>
-=======
-    <lastUpdated>20131022152933</lastUpdated>
->>>>>>> de2095846e7ef697e5602a6533b6f86b92607370
+    <lastUpdated>20131023112704</lastUpdated>
   </versioning>
 </metadata>
