@@ -1,4 +1,4 @@
 mvn-repo
 ========
 
-Maven Repository for forkch
+Maven Repository of Scenarioo
