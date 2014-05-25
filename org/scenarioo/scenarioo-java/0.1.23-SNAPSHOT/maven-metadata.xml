@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.scenarioo</groupId>
+  <artifactId>scenarioo-java</artifactId>
+  <version>0.1.23-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20140525.102109</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20140525102109</lastUpdated>
+  </versioning>
+</metadata>
